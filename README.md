@@ -1,0 +1,1 @@
+Small script to automate weekly meal planning
